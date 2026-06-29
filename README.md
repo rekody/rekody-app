@@ -3,7 +3,7 @@
 Voice dictation for macOS that **never leaves your Mac**. Hold a key, speak,
 release — your words land at the cursor, in any app.
 
-### [⬇ Download for Mac](../../releases) · macOS 13+ · Apple Silicon & Intel
+### [⬇ Download for Mac](../../releases) · macOS 13+ · Apple Silicon
 
 ## What it is
 
