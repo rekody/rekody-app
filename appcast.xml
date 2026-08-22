@@ -3,13 +3,13 @@
     <channel>
         <title>Rekody</title>
         <item>
-            <title>0.4.21</title>
-            <pubDate>Tue, 18 Aug 2026 17:12:05 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.4.21</sparkle:shortVersionString>
+            <title>0.4.22</title>
+            <pubDate>Sat, 22 Aug 2026 17:53:06 -0400</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.4.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/rekody/rekody-app/releases/download/v0.4.21/Rekody-0.4.21.dmg" length="16595185" type="application/octet-stream" sparkle:edSignature="CINYQzcUFlumC3V3Gs/zuQx+dsJ9aWB3RiVUums2/gjIAvEeYzPcYgZpccTTdFWowv9nRq3hyfGrmP+fkJVEDA=="/>
+            <enclosure url="https://github.com/rekody/rekody-app/releases/download/v0.4.22/Rekody-0.4.22.dmg" length="16787371" type="application/octet-stream" sparkle:edSignature="pJEdD4nAq3wvcyslcPsg9iq22EO7SZ2k+Qqc/YBSrlSDmIyMS8uvKvpJ15N+TQDpNngon1gOEFlJrrh6ohJwDg=="/>
         </item>
     </channel>
 </rss>
